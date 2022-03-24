@@ -1,0 +1,7 @@
+aiohttp
+marshmallow
+marshmallow-dataclass
+marshmallow-enum
+pip
+setuptools
+wheel
